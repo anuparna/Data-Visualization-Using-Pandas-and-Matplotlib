@@ -1,6 +1,6 @@
 ##Data Visualization - Role of Females towards Economic Development
 
-**1.1 Project Desription :** <br />
+**1.1. Project Desription :** <br />
 The project presents a comparative analysis of the role of females towards economy. Females
 in many countries do not play an active role in the economic development due to several
 reasons. However, with every passing year, the trend is improving with the spread of
@@ -16,8 +16,8 @@ Python libraries - csv, pymysql, matplotlib, pandas<br />
 **1.3. File Locations and Database Details :**
 
 _Data-source_ :<br />
-● /data-source/employment_to_population_ratio.csv<br /><br />
-● /data-source/gender_sector_employment.csv<br /><br /><br />
+● /data-source/employment_to_population_ratio.csv<br />
+● /data-source/gender_sector_employment.csv<br />
 ● /data-source/country_year_working_age_population.csv<br />
 
 _Database : banerjee_a_world_economy_database_<br />
